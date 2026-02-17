@@ -9,3 +9,11 @@ Implemented Java solutions for common Trie-based interview problems:
 - `WordSearchII` (LeetCode 212)
 
 Code location: `java/trie/`
+
+## Graph / Dijkstra
+
+Implemented Java solution for:
+
+- `Network Delay Time` (LeetCode 743)
+
+Code location: `graph/dijkstra/`
