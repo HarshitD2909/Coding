@@ -17,3 +17,11 @@ Implemented Java solution for:
 - `Network Delay Time` (LeetCode 743)
 
 Code location: `graph/dijkstra/`
+
+## Data Structure Design
+
+Implemented Java solution for:
+
+- `LFUCache` (LeetCode 460)
+
+Code location: `DataStructureDesign/`
